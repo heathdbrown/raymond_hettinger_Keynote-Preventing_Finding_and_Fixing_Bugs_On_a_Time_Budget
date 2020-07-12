@@ -10,3 +10,5 @@ https://coverage.readthedocs.io/en/coverage-5.2/
 http://mypy-lang.org/
 
 https://pypi.org/project/pyflakes/
+
+Kent Beck - "Test the things that matter", "You only get paid for working code, not tests"
